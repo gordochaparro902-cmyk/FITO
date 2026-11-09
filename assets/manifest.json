@@ -1,0 +1,457 @@
+[
+  {
+    "asset": "portrait.webp",
+    "original": "正视图.png",
+    "originalSize": [
+      1792,
+      2400
+    ],
+    "exportSize": [
+      662,
+      1000
+    ],
+    "bytes": 45640
+  },
+  {
+    "asset": "avatar.webp",
+    "original": "2D大头照.png",
+    "originalSize": [
+      2048,
+      2048
+    ],
+    "exportSize": [
+      973,
+      1000
+    ],
+    "bytes": 46714
+  },
+  {
+    "asset": "turnaround.webp",
+    "original": "三视图.png",
+    "originalSize": [
+      2752,
+      1536
+    ],
+    "exportSize": [
+      1600,
+      852
+    ],
+    "bytes": 90960
+  },
+  {
+    "asset": "turnaround-2d.webp",
+    "original": "2D三视图.png",
+    "originalSize": [
+      2752,
+      1536
+    ],
+    "exportSize": [
+      1600,
+      856
+    ],
+    "bytes": 106776
+  },
+  {
+    "asset": "relax.webp",
+    "original": "动作/Adjusting_high_angle_camera_view_93b19f8e_2K.png",
+    "originalSize": [
+      1792,
+      2400
+    ],
+    "exportSize": [
+      626,
+      1000
+    ],
+    "bytes": 39578
+  },
+  {
+    "asset": "dumbbell.webp",
+    "original": "动作/Change_dumbbell_color_85acb574_2K.png",
+    "originalSize": [
+      1792,
+      2400
+    ],
+    "exportSize": [
+      698,
+      1000
+    ],
+    "bytes": 45964
+  },
+  {
+    "asset": "skate.webp",
+    "original": "动作/Gemini_Generated_Image_qq7s03qq7s03qq7s.png",
+    "originalSize": [
+      1792,
+      2400
+    ],
+    "exportSize": [
+      698,
+      1000
+    ],
+    "bytes": 55774
+  },
+  {
+    "asset": "sprint.webp",
+    "original": "动作/121212.png",
+    "originalSize": [
+      1792,
+      2400
+    ],
+    "exportSize": [
+      673,
+      1000
+    ],
+    "bytes": 49420
+  },
+  {
+    "asset": "rope.webp",
+    "original": "动作/抠图 (1)1.png",
+    "originalSize": [
+      1792,
+      2396
+    ],
+    "exportSize": [
+      711,
+      1000
+    ],
+    "bytes": 72238
+  },
+  {
+    "asset": "tennis.webp",
+    "original": "动作/Re-rendering_character_in_Blender_fed21b2c_2K.png",
+    "originalSize": [
+      1792,
+      2400
+    ],
+    "exportSize": [
+      948,
+      1000
+    ],
+    "bytes": 95830
+  },
+  {
+    "asset": "outfit-1.webp",
+    "original": "服装/3333.png",
+    "originalSize": [
+      658,
+      880
+    ],
+    "exportSize": [
+      537,
+      812
+    ],
+    "bytes": 36902
+  },
+  {
+    "asset": "outfit-2.webp",
+    "original": "服装/4444.png",
+    "originalSize": [
+      654,
+      876
+    ],
+    "exportSize": [
+      534,
+      808
+    ],
+    "bytes": 39052
+  },
+  {
+    "asset": "outfit-3.webp",
+    "original": "服装/d7165f1552a951c6dc759cc0e206d3bd 2，，，3.png",
+    "originalSize": [
+      809,
+      1083
+    ],
+    "exportSize": [
+      662,
+      997
+    ],
+    "bytes": 61454
+  },
+  {
+    "asset": "outfit-4.webp",
+    "original": "服装/de70ce226571dde7c23a943c41b4bb00 2，，，4.png",
+    "originalSize": [
+      822,
+      1096
+    ],
+    "exportSize": [
+      672,
+      997
+    ],
+    "bytes": 53416
+  },
+  {
+    "asset": "outfit-5.webp",
+    "original": "服装/fcd4d80aeb3af8d8b0bb8e876eaed944 2，，，1.png",
+    "originalSize": [
+      809,
+      1083
+    ],
+    "exportSize": [
+      661,
+      996
+    ],
+    "bytes": 58712
+  },
+  {
+    "asset": "outfit-6.webp",
+    "original": "服装/粉色生气小怪兽穿格纹衬衫 1.png",
+    "originalSize": [
+      682,
+      914
+    ],
+    "exportSize": [
+      558,
+      842
+    ],
+    "bytes": 50212
+  },
+  {
+    "asset": "world-1.webp",
+    "original": "小场景/0025d992bca74408a5f78a337c4b56e 2.png",
+    "originalSize": [
+      1628,
+      1628
+    ],
+    "exportSize": [
+      1000,
+      967
+    ],
+    "bytes": 128062
+  },
+  {
+    "asset": "world-2.webp",
+    "original": "小场景/8935ff56269128518792a918b0ba645 2.png",
+    "originalSize": [
+      1570,
+      1570
+    ],
+    "exportSize": [
+      1000,
+      968
+    ],
+    "bytes": 123228
+  },
+  {
+    "asset": "world-3.webp",
+    "original": "小场景/b79cec5fbdcfc58f6c70820368a7743 2.png",
+    "originalSize": [
+      1626,
+      1626
+    ],
+    "exportSize": [
+      1000,
+      968
+    ],
+    "bytes": 116492
+  },
+  {
+    "asset": "world-4.webp",
+    "original": "小场景/c9c3aabf44bb6874346d559493b8ef9 2.png",
+    "originalSize": [
+      1624,
+      1624
+    ],
+    "exportSize": [
+      1000,
+      984
+    ],
+    "bytes": 128320
+  },
+  {
+    "asset": "world-5.webp",
+    "original": "小场景/ff481f3badc25809aaf1a5b92baa80b 2.png",
+    "originalSize": [
+      1626,
+      1626
+    ],
+    "exportSize": [
+      1000,
+      964
+    ],
+    "bytes": 123906
+  },
+  {
+    "asset": "material-1.webp",
+    "original": "材质/Adding_cat_food_inside_glass_7e50b4aa_2K.png",
+    "originalSize": [
+      1792,
+      2400
+    ],
+    "exportSize": [
+      665,
+      1000
+    ],
+    "bytes": 101060
+  },
+  {
+    "asset": "material-2.webp",
+    "original": "材质/Apply_material_to_3D_model_7bc1b4dd_2K.png",
+    "originalSize": [
+      1792,
+      2400
+    ],
+    "exportSize": [
+      658,
+      1000
+    ],
+    "bytes": 68854
+  },
+  {
+    "asset": "material-3.webp",
+    "original": "材质/Apply_material_to_IP_structure_13c6f515_2K.png",
+    "originalSize": [
+      1792,
+      2400
+    ],
+    "exportSize": [
+      661,
+      1000
+    ],
+    "bytes": 57006
+  },
+  {
+    "asset": "material-4.webp",
+    "original": "材质/Apply_material_to_IP_structure_bd5d67dd_2K.png",
+    "originalSize": [
+      1792,
+      2400
+    ],
+    "exportSize": [
+      663,
+      1000
+    ],
+    "bytes": 114918
+  },
+  {
+    "asset": "material-5.webp",
+    "original": "材质/Gemini_Generated_Image_cwqx2ncwqx2ncwqx.png",
+    "originalSize": [
+      1792,
+      2400
+    ],
+    "exportSize": [
+      664,
+      1000
+    ],
+    "bytes": 88350
+  },
+  {
+    "asset": "material-6.webp",
+    "original": "材质/Low-poly_grass_character_sculpture_2b1acf2c_2K.png",
+    "originalSize": [
+      1792,
+      2400
+    ],
+    "exportSize": [
+      690,
+      1000
+    ],
+    "bytes": 134794
+  },
+  {
+    "asset": "scene-1.webp",
+    "original": "大场景/1.png",
+    "originalSize": [
+      2752,
+      1536
+    ],
+    "exportSize": [
+      1600,
+      893
+    ],
+    "bytes": 115218
+  },
+  {
+    "asset": "scene-2.webp",
+    "original": "大场景/2.png",
+    "originalSize": [
+      2752,
+      1536
+    ],
+    "exportSize": [
+      1600,
+      893
+    ],
+    "bytes": 196496
+  },
+  {
+    "asset": "scene-3.webp",
+    "original": "大场景/2222.jpg",
+    "originalSize": [
+      2752,
+      1536
+    ],
+    "exportSize": [
+      1600,
+      893
+    ],
+    "bytes": 102192
+  },
+  {
+    "asset": "scene-4.webp",
+    "original": "大场景/图片节点 10(4).png",
+    "originalSize": [
+      2016,
+      864
+    ],
+    "exportSize": [
+      1600,
+      686
+    ],
+    "bytes": 137512
+  },
+  {
+    "asset": "scene-5.webp",
+    "original": "大场景/图片节点 13(2).png",
+    "originalSize": [
+      3840,
+      2160
+    ],
+    "exportSize": [
+      1600,
+      900
+    ],
+    "bytes": 113460
+  },
+  {
+    "asset": "scene-6.webp",
+    "original": "大场景/图片节点 7(4).png",
+    "originalSize": [
+      2048,
+      1152
+    ],
+    "exportSize": [
+      1600,
+      900
+    ],
+    "bytes": 106852
+  },
+  {
+    "asset": "expressions-1.webp",
+    "original": "表情包/Gemini_Generated_Image_7wr8ry7wr8ry7wr8 1.png",
+    "originalSize": [
+      5504,
+      3072
+    ],
+    "exportSize": [
+      1600,
+      1129
+    ],
+    "bytes": 116586
+  },
+  {
+    "asset": "expressions-2.webp",
+    "original": "表情包/Gemini_Generated_Image_gm4i23gm4i23gm4i 1.png",
+    "originalSize": [
+      2754,
+      1536
+    ],
+    "exportSize": [
+      1600,
+      1173
+    ],
+    "bytes": 166724
+  }
+]
